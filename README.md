@@ -30,7 +30,7 @@ I'm a Data Science Engineer Undergraduate at ITESO University, expected to gradu
         <!-- First Column -->
         <td valign="top">
             <h3> 🤝 Looking to Collab on: </h3>    
-            <p> Mainly <strong>text analysis and data modeling</strong> projects, but I'm open to everything! </p>
+            <p> Mainly <strong>text analysis and data modeling</strong> projects, <br> but I'm open to everything! </p>
         </td>
         <!-- Second Column -->
         <td valign="top">
