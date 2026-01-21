@@ -24,13 +24,20 @@ I'm a Data Science Engineer Undergraduate at ITESO University, expected to gradu
                 <li> Non-Linear Forecast Models
             </ul>
         </td>
+        <!-- Third Column -->
+        <td valign="top">
+            <h3> 🪶 Relevant Projects:</h3>
+            <a href="https://github.com/aiko-isnt-ded/text-mining-projects" target="_blank">
+            <a href="https://github.com/denisevaldivia/Depression_Classification" target="_blank">
+            <a href="https://github.com/ch0fas/ML_Projects" target="blank">
+        </td>
     </tr>
     <!-- Second Row -->
     <tr>
         <!-- First Column -->
         <td valign="top">
             <h3> 🤝 Looking to Collab on: </h3>    
-            <p> Mainly <strong>text analysis and data modeling</strong> projects, <br> but I'm open to everything! </p>
+            <p> Mainly <strong>text analysis and data modeling</strong> <br> projects, but I'm open to everything! </p>
         </td>
         <!-- Second Column -->
         <td valign="top">
