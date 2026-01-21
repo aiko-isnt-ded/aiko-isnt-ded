@@ -25,15 +25,15 @@ I'm a Data Science Engineer Undergraduate at ITESO University, expected to gradu
             </ul>
         </td>
         <!-- Third Column -->
-        <td valign="top">
+        <td valign="middle" rowspan="2">
             <h3> 🪶 Relevant Projects:</h3>
-            <a href="https://github.com/aiko-isnt-ded/text-mining-projects" target="_blank">
+            <a href="https://github.com/aiko-isnt-ded/text-mining-projects">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aiko-isnt-ded&repo=text-mining-projects" />
             </a>
-            <a href="https://github.com/denisevaldivia/Depression_Classification" target="_blank">
+            <a href="https://github.com/denisevaldivia/Depression_Classification">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=denisevaldivia&repo=Depression_Classification" />
             </a>
-            <a href="https://github.com/ch0fas/ML_Projects" target="blank">
+            <a href="https://github.com/ch0fas/ML_Projects">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ch0fas&repo=ML_Projects" />
             </a>
         </td>
