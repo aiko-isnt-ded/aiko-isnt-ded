@@ -14,7 +14,6 @@ Data Science Engineer Undergraduate at ITESO University, expected to graduate in
 - NoSQL Databases (Graph, Document, Column & Vector)
 - Critical Data Studies
 
-&nbsp;
 </td>
 <td valign="top" width="50%">
 
