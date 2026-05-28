@@ -1,6 +1,6 @@
 ## Hi! I'm Vivienne 🌈✨
 
-Data Science Engineer Undergraduate at ITESO University, expected to graduate in 2027, currently working as an intern at [Signa_Lab ITESO](https://signalab.mx/) and as a Chinese teacher. I have a strong focus on **Machine Learning and Deep Learning modeling, text mining, and non-relational databases**. A researcher at heart, I'm passionate about analyzing social phenomena and its intricacies through a data-oriented lens.  
+Data Science Engineer Undergraduate at ITESO University, expected to graduate in 2027, currently working as an intern at [Signa_Lab ITESO](https://signalab.mx/) and as a Chinese teacher. I have a strong focus on **Machine Learning and Deep Learning models, text mining, and non-relational databases**. A researcher at heart, I'm passionate about analyzing social phenomena and its intricacies through a data-oriented lens.  
 
 ---
 
@@ -8,16 +8,17 @@ Data Science Engineer Undergraduate at ITESO University, expected to graduate in
 <tr>
 <td valign="top" width="50%">
 
-### 🎯 Areas of focus
+**🎯 Areas of focus**
 - Machine Learning & Deep Learning
 - Text Mining & NLP
 - NoSQL Databases (Graph, Document, Column & Vector)
 - Critical Data Studies
 
+&nbsp;
 </td>
 <td valign="top" width="50%">
 
-### 🌱 Currently learning
+**🌱 Currently learning**
 - Geospatial Analysis
 - JavaScript
 - Java
@@ -27,13 +28,15 @@ Data Science Engineer Undergraduate at ITESO University, expected to graduate in
 <tr>
 <td valign="top" width="50%">
 
-### 🤝 Looking to collab on
+**🤝 Looking to collab on**
+
 Mainly text analysis, critical datafication, and Deep Learning projects — though I'm open to everything!
 
 </td>
 <td valign="top" width="50%">
 
-### 📫 Reach me
+**📫 Reach me**
+
 toledoviviana18@gmail.com
 
 </td>
