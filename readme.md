@@ -4,26 +4,41 @@ Data Science Engineer Undergraduate at ITESO University, expected to graduate in
 
 ---
 
-### 🎯 Areas of focus:
+<table>
+<tr>
+<td valign="top" width="50%">
 
+### 🎯 Areas of focus
 - Machine Learning & Deep Learning
 - Text Mining & NLP
 - NoSQL Databases (Graph, Document, Column & Vector)
 - Critical Data Studies
 
-### 🌱 Currently learning:
+</td>
+<td valign="top" width="50%">
 
+### 🌱 Currently learning
 - Geospatial Analysis
 - JavaScript
 - Java
 
-### 🤝 Looking to Collab on:
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-Mainly text analysis, critical datafication, and Deep Learning projects — though I'm open to everything! 
+### 🤝 Looking to collab on
+Mainly text analysis, critical datafication, and Deep Learning projects — though I'm open to everything!
 
-### 📫 Reach me:
+</td>
+<td valign="top" width="50%">
 
+### 📫 Reach me
 toledoviviana18@gmail.com
+
+</td>
+</tr>
+</table>
 
 ---
 
