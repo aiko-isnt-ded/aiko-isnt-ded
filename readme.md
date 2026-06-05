@@ -1,6 +1,6 @@
 ## Hi! I'm Vivienne 🌈✨
 
-Data Science Engineer Undergraduate at ITESO University, expected to graduate in 2027, currently working as an intern at [Signa_Lab ITESO](https://signalab.mx/) and as a Chinese teacher. I have a strong focus on **Machine Learning and Deep Learning models, text mining, and non-relational databases**. A researcher at heart, I'm passionate about analyzing social phenomena and its intricacies through a data-oriented lens.  
+Data Science Engineer Undergraduate at ITESO University, expected to graduate in 2027, currently working as an intern at [Signa_Lab ITESO](https://signalab.mx/) and as a Chinese teacher. I have a strong focus on **data analysis, Machine Learning and Deep Learning models, text mining, and non-relational databases**. A researcher at heart, I'm passionate about analyzing social phenomena and its intricacies through a data-oriented lens.  
 
 ---
 
